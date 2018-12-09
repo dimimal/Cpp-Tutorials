@@ -1,3 +1,0 @@
-/home/dimitris/GitProjects/Cpp_Edx/CMakeFiles/edit_cache.dir
-/home/dimitris/GitProjects/Cpp_Edx/CMakeFiles/rebuild_cache.dir
-/home/dimitris/GitProjects/Cpp_Edx/CMakeFiles/Tutorial.dir

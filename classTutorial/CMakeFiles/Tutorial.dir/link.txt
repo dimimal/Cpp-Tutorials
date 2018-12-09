@@ -1,1 +1,0 @@
-/usr/bin/c++      CMakeFiles/Tutorial.dir/classScope.cpp.o CMakeFiles/Tutorial.dir/Person.cpp.o CMakeFiles/Tutorial.dir/Dog.cpp.o  -o Tutorial -rdynamic 
